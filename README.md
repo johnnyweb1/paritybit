@@ -1,0 +1,2 @@
+# paritybit
+Parity Bit Website
